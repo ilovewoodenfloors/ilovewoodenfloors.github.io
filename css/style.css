@@ -1,0 +1,98 @@
+.potato
+{
+	font-family: Amatic SC , cursive;
+}
+
+.lilac
+{
+	color: Salmon;
+}
+
+.tomato
+{
+	font-size: 45px;
+}
+
+.bg-image 
+{
+	background: url("../img/coffee.gif") no-repeat center 
+	center fixed;
+	background-size: cover;
+}
+
+h1{
+	text-align: center;
+}
+
+p{
+	margin-left: 30px;
+}
+
+.navbar a
+{
+color: black;
+}
+
+.white-bg
+{ 
+	background-color: whitesmoke;
+}
+
+.heading
+{
+	font-family: Dosis, sans-serif;
+	font-size: 30px;
+	color:	MistyRose;
+}
+
+.lala
+{
+	width: 384px;
+	height: 312px;
+}
+
+.olivefont
+{
+	color: 	#6B8E23;
+	font-weight: bold;
+}
+
+.moreolive
+{
+	color: 	#808000;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.dosis
+{
+	font-family: Dosis, sans-serif;
+}
+
+.headerrecipe
+{
+	font-size: 45px;
+}
+
+.piccs
+{
+	width: 200px;
+	height: 300px;
+}
+
+.whitepotato
+{
+	color: white;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.supersize
+{
+	font-size: 25px;
+}
+
+.chasiufont
+{
+	font-size: 30px;
+}
